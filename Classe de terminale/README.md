@@ -1,4 +1,4 @@
-# Classe de seconde
+# Classe de Terminale
 
 Les activités sont triées selon différents champs disciplinaires.  
 Certaines activités se retrouvent dans plusieurs domaines car elles peuvent être pluridisplinaires.
