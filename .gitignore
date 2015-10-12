@@ -58,3 +58,6 @@ target/
 
 #notebook save
 *.ipynb_checkpoints
+
+#notebook for local test
+test_*
